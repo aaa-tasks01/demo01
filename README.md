@@ -4,3 +4,5 @@ first_feature and additionals
 second_line
 
 third_line
+
+Thanks folks!
